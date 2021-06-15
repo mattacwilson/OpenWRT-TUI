@@ -14,10 +14,9 @@ The full tasks were as follows:
 7) Restart the ssh service on the router
 8) Enter a port number and run an nmap scan on this port
 9) Return the value of the nmap scan
-10)Display the different firewall zones
-11)Display the config for each of the firewall zones
-
-12)Reboot the router
+10) Display the different firewall zones
+11) Display the config for each of the firewall zones
+12) Reboot the router
 
 This was all created within a VM and then exported as an OVA as the final project, making it as small as possible. 
 
